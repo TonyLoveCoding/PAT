@@ -1,0 +1,2 @@
+该目录下是PAT乙级(Basic Level)练习题，难度为2
+https://www.nowcoder.com/pat/2/problems
